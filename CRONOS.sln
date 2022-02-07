@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRONOS", "CRONOS\CRONOS.csproj", "{D584F7F4-5394-4FB9-8703-4378E1ACCEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D584F7F4-5394-4FB9-8703-4378E1ACCEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D584F7F4-5394-4FB9-8703-4378E1ACCEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D584F7F4-5394-4FB9-8703-4378E1ACCEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D584F7F4-5394-4FB9-8703-4378E1ACCEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612DA694-70C2-4436-89B6-EDEEDC02ACE5}
+	EndGlobalSection
+EndGlobal
